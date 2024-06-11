@@ -1,0 +1,34 @@
+{
+	"left": [
+		{
+			"image": "projects/ecarwall.png",
+			"company": "IONT tech s.r.o.",
+			"title": "e:car WALL",
+			"description": "",
+			"link": "https://iont.tech/dobijeci-stanice-ecar-wall"
+		},
+		{
+			"image": "projects/figurique.png",
+			"company": "School",
+			"title": "Figurique",
+			"description": "",
+			"link": "https://github.com/Figurique"
+		}
+	],
+	"right": [
+		{
+			"image": "projects/disenchantment.png",
+			"company": "Personal",
+			"title": "Disenchantment",
+			"description": "",
+			"link": "https://www.spigotmc.org/resources/disenchantment-1-20-1-20-6-excellentenchants-support.110741/"
+		},
+		{
+			"image": "projects/nabijto.png",
+			"company": "IONT tech s.r.o.",
+			"title": "nabij.to",
+			"description": "",
+			"link": "https://nabij.to/"
+		}
+	]
+}
