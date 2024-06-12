@@ -14,6 +14,10 @@ export default {
 				yellowtail: ['Yellowtail', 'cursive'],
 				inter: ['Inter', 'sans-serif'],
 				jaldi: ['Jaldi', 'sans-serif']
+			},
+			screens: {
+				xxs: '384px',
+				xs: '512px'
 			}
 		}
 	},
