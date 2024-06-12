@@ -3,7 +3,10 @@
 		<div class="flex flex-col justify-center">
 			<h2 class="font-inter text-lg text-dark sm:text-2xl">Hi, my name is</h2>
 			<h1 class="relative pt-4 flex flex-col justify-center items-center">
-				<img src="images/name.svg" alt="Jan Komínek" class="min-w-56 max-w-[660px] w-full" />
+				<div class="relative">
+					<img src="images/name.svg" alt="Jan Komínek" class="min-w-56 max-w-[660px] w-full" />
+					<img src="images/name2.svg" alt="Jan Komínek" class="absolute top-0.5 left-0 min-w-56 max-w-[660px] w-full" />
+				</div>
 				<p class="absolute -bottom-1 font-inter text-lg tracking-wider text-main xxs:text-xl xs:text-2xl xs:bottom-0 sm:text-4xl">Fullstack Engineer</p>
 			</h1>
 			<div class="pt-16 flex gap-12 justify-center xs:gap-20">

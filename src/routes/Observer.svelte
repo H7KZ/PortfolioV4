@@ -16,7 +16,7 @@
 				});
 			},
 			{
-				threshold: Array.from({ length: 1001 }, (_, i) => i / 1000),
+				threshold: Array.from({ length: 10001 }, (_, i) => i / 10000),
 				rootMargin: '0px 0px -50% 0px'
 			}
 		);
