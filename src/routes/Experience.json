@@ -6,7 +6,7 @@
 		"link": "https://iont.tech/",
 		"company": "IONT tech s.r.o.",
 		"location": "Self-employed &nbsp; | &nbsp; Remote",
-		"description": ""
+		"description": "• Developing and maintaining fullstack web application for managing electric car chargers<br/><br/>• Technical, analytical and business thinking of new features and products<br/><br/>• Great team collaboration between my colleagues, directors, end users and factory workers<br/><br/>• Development of hardware products<br/><br/>• Deep knowledge of electric chargers and their technologies, protocols and APIs<br/><br/>• Collaboration with firmware team to deliver fully working software<br/><br/>• Additions to software in features as: auto-updating, system services, automatically managed internet connection and mainly the installation process of newly built chargers<br/><br/>• Development of a public charging application that holds payment gate, remote autorization of chargers and the entire control system<br/><br/>• Outstanding results in a little to no time, great knowledge of problem solving and solutions<br/><br/>• Never ending process of learning new technologies and protocols<br/><br/>• Maintaing of already set up Infrastructure as a Service<br/><br/>• Set up docker swarm and an entire fleet of micro-services<br/><br/>• Conversion to docker supported application and migration from IaaS to PaaS"
 	},
 	{
 		"color": "#1D66F3",
@@ -15,7 +15,7 @@
 		"link": "https://precismo.com/",
 		"company": "Precismo s.r.o.",
 		"location": "Part-time &nbsp; | &nbsp; Hybrid &nbsp; | &nbsp; Prague, Czech Republic",
-		"description": "Developing and managing customer portal<br/><br/>Analysing and developing new features with team collaboration<br/><br/>Use of git and tracking softwares to ensure punctuality<br/><br/>Communication and agile environment with a full team of developers"
+		"description": "• Developing and managing customer portal<br/><br/>• Analysing and developing new features with team collaboration<br/><br/>• Use of git and tracking softwares to ensure punctuality<br/><br/>• Communication and agile environment with a full team of developers"
 	},
 	{
 		"color": "#4A75B4",
@@ -24,7 +24,7 @@
 		"link": "https://www.ssps.cz/",
 		"company": "Smíchov Secondary Technical School",
 		"location": "Contract &nbsp; | &nbsp; On-site &nbsp; | &nbsp; Prague, Czech Republic",
-		"description": "Managing a week long summer school of programming and game development<br/><br/>Responsibility of preparing well documented materials for students and creating balanced lessons to cover all topics of game development<br/><br/>Creating final project and reviewing student work with constructive feedback and helping them making their final game flawless"
+		"description": "• Managing a week long summer school of programming and game development<br/><br/>• Responsibility of preparing well documented materials for students and creating balanced lessons to cover all topics of game development<br/><br/>• Creating final project and reviewing student work with constructive feedback and helping them making their final game flawless"
 	},
 	{
 		"color": "#8832E3",
@@ -33,7 +33,7 @@
 		"link": "https://haxagon.cz/",
 		"company": "HAXAGON s.r.o.",
 		"location": "Part-time &nbsp; | &nbsp; Remote",
-		"description": "Developing and managing e-learning platform for cyber security<br/><br/>Designing and developing new features<br/><br/>Close collaboration with designer and developer team<br/><br/>Use of git and tracking softwares to ensure punctuality"
+		"description": "• Developing and managing e-learning platform for cyber security<br/><br/>• Designing and developing new features<br/><br/>• Close collaboration with designer and developer team<br/><br/>• Use of git and tracking softwares to ensure punctuality"
 	},
 	{
 		"color": "#457C3C",
@@ -42,7 +42,7 @@
 		"link": "https://froneb.com/",
 		"company": "Froneb s.r.o.",
 		"location": "Contract &nbsp; | &nbsp; Remote",
-		"description": "Developing an already premade design of an ecommerence website<br/><br/>Ensuring a smooth user experience on interaction<br/><br/>Creating a developer friendly environment and codebase to be easily continueable on further development"
+		"description": "• Developing an already premade design of an ecommerence website<br/><br/>• Ensuring a smooth user experience on interaction<br/><br/>• Creating a developer friendly environment and codebase to be easily continueable on further development"
 	},
 	{
 		"color": "#4A75B4",
@@ -51,7 +51,7 @@
 		"link": "https://www.ssps.cz/",
 		"company": "Smíchov Secondary Technical School",
 		"location": "Contract &nbsp; | &nbsp; On-site &nbsp; | &nbsp; Prague, Czech Republic",
-		"description": "Managing a week long summer school of programming and game development<br/><br/>Responsibility of preparing well documented materials for students and creating balanced lessons to cover all topics of programming language C#"
+		"description": "• Managing a week long summer school of programming and game development<br/><br/>• Responsibility of preparing well documented materials for students and creating balanced lessons to cover all topics of programming language C#"
 	},
 	{
 		"color": "#BB433B",
@@ -60,7 +60,7 @@
 		"link": "https://tv.nova.cz/",
 		"company": "TV Nova",
 		"location": "Internship &nbsp; | &nbsp; On-site &nbsp; | &nbsp; Prague, Czech Republic",
-		"description": " 2 week internship at the biggest television & media company in the Czech Republic<br/><br/>Responsibility of properly testing streaming applications and platforms before they go to production<br/><br/>Reporting of failing tests and immediate developer feedback<br/><br/>Use of Azure DevOps and Microsoft Office"
+		"description": "• 2 week internship at the biggest television & media company in the Czech Republic<br/><br/>• Responsibility of properly testing streaming applications and platforms before they go to production<br/><br/>• Reporting of failing tests and immediate developer feedback<br/><br/>• Use of Azure DevOps and Microsoft Office"
 	},
 	{
 		"color": "#457C3C",
@@ -69,6 +69,6 @@
 		"link": "https://froneb.com/",
 		"company": "Froneb s.r.o.",
 		"location": "Contract &nbsp; | &nbsp; Remote",
-		"description": "Developing pre-designed web application with detail to site responsibility and user experience<br/><br/>Use of SvelteKit and TailwindCSS"
+		"description": "• Developing pre-designed web application with detail to site responsibility and user experience<br/><br/>• Use of SvelteKit and TailwindCSS"
 	}
 ]
