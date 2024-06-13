@@ -1,6 +1,6 @@
 <section id="about">
 	<div class="w-full min-h-screen h-full py-12 flex gap-32 justify-center px-12 flex-col lg:flex-row">
-		<img src="images/me.png" alt="me" class="hidden lg:block h-min rounded-3xl drop-shadow-xl shadow-black lg:w-[420px] xl:w-[520px]" />
+		<img src="images/me.webp" alt="me" class="hidden lg:block h-min rounded-3xl drop-shadow-xl shadow-black lg:w-[420px] xl:w-[520px]" />
 		<div class="max-w-[520px] w-full flex flex-col gap-12">
 			<h2 class="font-inter font-medium text-5xl text-main">About me</h2>
 			<p class="font-inter text-sm text-main sm:text-base lg:text-md xl:text-lg">

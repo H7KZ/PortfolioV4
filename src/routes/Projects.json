@@ -1,14 +1,14 @@
 {
 	"left": [
 		{
-			"image": "projects/ecarwall.png",
+			"image": "projects/ecarwall.webp",
 			"company": "IONT tech s.r.o.",
 			"title": "e:car WALL",
 			"description": "The unsurpassed leader among charging stations for AC charging. It is the optimal solution for charging electric vehicles and plug-in hybrids",
 			"link": "https://iont.tech/dobijeci-stanice-ecar-wall"
 		},
 		{
-			"image": "projects/figurique.png",
+			"image": "projects/figurique.webp",
 			"company": "School",
 			"title": "Figurique",
 			"description": "Final thesis for my high school graduation. It's a web application for creating and printing 3D figurine models",
@@ -17,14 +17,14 @@
 	],
 	"right": [
 		{
-			"image": "projects/disenchantment.png",
+			"image": "projects/disenchantment.webp",
 			"company": "Personal",
 			"title": "Disenchantment",
 			"description": "Get enchantments back from items!",
 			"link": "https://www.spigotmc.org/resources/disenchantment-1-20-1-20-6-excellentenchants-support.110741/"
 		},
 		{
-			"image": "projects/nabijto.png",
+			"image": "projects/nabijto.webp",
 			"company": "IONT tech s.r.o.",
 			"title": "nabij.to",
 			"description": "Remote management of charging stations for electric vehicles and plug-in hybrids",
