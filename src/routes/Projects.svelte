@@ -23,7 +23,22 @@
 									{@html project.description}
 								</p>
 							</div>
-							<a href={project.link} target="_blank" class="font-inter text-xs text-white transition-all hover:text-orange-400 xs:text-sm">View the project</a>
+							<a
+								href={project.link}
+								target="_blank"
+								class="flex items-center gap-2 font-inter text-xs text-white transition-all xs:text-sm hover:text-orange-400"
+							>
+								<p>View the project</p>
+								<svg viewBox="0 0 51 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-3.5">
+									<path
+										d="M41.9933 1L49.9903 9.001L41.9933 17M1 9.001L49.9903 9.003"
+										stroke="currentColor"
+										stroke-width="1.5"
+										stroke-linecap="round"
+										stroke-linejoin="round"
+									/>
+								</svg>
+							</a>
 						</div>
 					</div>
 				{/each}
@@ -46,7 +61,22 @@
 									{@html project.description}
 								</p>
 							</div>
-							<a href={project.link} target="_blank" class="font-inter text-xs text-white transition-all hover:text-orange-400 xs:text-sm">View the project</a>
+							<a
+								href={project.link}
+								target="_blank"
+								class="flex items-center gap-2 font-inter text-xs text-white transition-all xs:text-sm hover:text-orange-400"
+							>
+								<p>View the project</p>
+								<svg viewBox="0 0 51 18" fill="none" xmlns="http://www.w3.org/2000/svg" class="h-3.5">
+									<path
+										d="M41.9933 1L49.9903 9.001L41.9933 17M1 9.001L49.9903 9.003"
+										stroke="currentColor"
+										stroke-width="1.5"
+										stroke-linecap="round"
+										stroke-linejoin="round"
+									/>
+								</svg>
+							</a>
 						</div>
 					</div>
 				{/each}
