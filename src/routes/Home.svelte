@@ -9,8 +9,8 @@
 				</div>
 				<p class="absolute -bottom-1 font-inter text-lg tracking-wider text-main xxs:text-xl xs:text-2xl xs:bottom-0 sm:text-4xl">Fullstack Engineer</p>
 			</h1>
-			<div class="pt-16 flex gap-12 justify-center xs:gap-20">
-				<a href="https://github.com/H7KZ" target="_blank" class="text-secondary transition-all hover:text-orange-500">
+			<div class="pt-16 flex gap-4 justify-center xxs:gap-8 xs:gap-20">
+				<a href="https://github.com/H7KZ" target="_blank" class="text-secondary transition-all hover:text-green-500">
 					<svg xmlns="http://www.w3.org/2000/svg" width="40px" height="40px" viewBox="0 0 24 24"
 						><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" color="currentColor"
 							><path d="M10 20.568c-3.429 1.157-6.286 0-8-3.568" /><path
@@ -40,6 +40,14 @@
 								d="M16 9v4.5a2.5 2.5 0 0 0 2.5 2.5v0a2.5 2.5 0 0 0 2.5-2.5V12"
 							/></g
 						></svg
+					>
+				</a>
+				<a href="mailto:contact@kominekjan.cz" target="_blank" class="text-secondary transition-all hover:text-amber-500">
+					<svg xmlns="http://www.w3.org/2000/svg" width="40px" height="40px" viewBox="0 0 16 16"
+						><path
+							fill="currentColor"
+							d="M6.731 0L2 9.125h2.788L6.73 5.497l1.93 3.628h2.766zm4.694 9.125l-1.372 2.756L8.66 9.125H6.547L10.053 16l3.484-6.875z"
+						/></svg
 					>
 				</a>
 			</div>
