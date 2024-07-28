@@ -20,15 +20,15 @@
 			"image": "projects/disenchantment.webp",
 			"company": "Personal",
 			"title": "Disenchantment",
-			"description": "Get enchantments back from items!",
-			"link": "https://www.spigotmc.org/resources/disenchantment-1-20-1-20-6-excellentenchants-support.110741/"
+			"description": "New mechanics for minecraft vanilla gameplay. This plugin allows players to disenchant items and get the item's enchantments back<br /><br />2.4K Downloads<br />121 Servers<br />115 Players",
+			"link": "https://www.spigotmc.org/resources/110741"
 		},
 		{
 			"image": "projects/nabijto.webp",
 			"company": "IONT tech s.r.o.",
 			"title": "nabij.to",
 			"description": "Remote management of charging stations for electric vehicles and plug-in hybrids",
-			"link": "https://nabij.to/"
+			"link": "https://nabij.to"
 		}
 	]
 }
