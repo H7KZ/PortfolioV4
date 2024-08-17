@@ -1,6 +1,13 @@
 {
 	"left": [
 		{
+			"image": "projects/wuilb.png",
+			"company": "Personal",
+			"title": "Wuilb hosting",
+			"description": "PaaS for hosting game servers with ease",
+			"link": "https://wuilb.com"
+		},
+		{
 			"image": "projects/ecarwall.webp",
 			"company": "IONT tech s.r.o.",
 			"title": "e:car WALL",
