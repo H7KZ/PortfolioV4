@@ -1,7 +1,7 @@
 {
 	"left": [
 		{
-			"image": "projects/wuilb.png",
+			"image": "projects/wuilb2.png",
 			"company": "Personal",
 			"title": "Wuilb hosting",
 			"description": "PaaS for hosting game servers with ease",
@@ -23,6 +23,13 @@
 		}
 	],
 	"right": [
+		{
+			"image": "projects/intedat.webp",
+			"company": "Intedat s.r.o.",
+			"title": "Intedat app",
+			"description": "Intedat is a cutting-edge database of companies that will help you get new business opportunities. Save time and money and take the shortest route to prospective clients and suppliers.",
+			"link": "https://www.intedat.com"
+		},
 		{
 			"image": "projects/disenchantment.webp",
 			"company": "Personal",

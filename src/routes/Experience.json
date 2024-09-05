@@ -1,65 +1,56 @@
 [
 	{
+		"color": "#4D1AAF",
+		"date": "September 2024 - Present",
+		"title": "Fullstack Engineer",
+		"link": "https://www.intedat.com",
+		"company": "Intedat s.r.o.",
+		"location": "Freelance &nbsp; | &nbsp; Remote",
+		"description": ""
+	},
+	{
 		"color": "#169BD7",
 		"date": "August 2023 - Present",
 		"title": "Fullstack Engineer",
-		"link": "https://iont.tech/",
+		"link": "https://iont.tech",
 		"company": "IONT tech s.r.o.",
 		"location": "Freelance &nbsp; | &nbsp; Remote",
 		"description": "• Developed and maintained a full-stack web application for managing electric car chargers<br/><br/>• Led the creation of a public charging app with payment systems and remote authorization<br/><br/>• Migrated infrastructure from IaaS to PaaS, setting up Docker Swarm and microservices<br/><br/>• Collaborated with firmware teams to deliver auto-updating software and seamless installations<br/><br/>• Consistently delivered results with a focus on problem-solving and continuous learning"
 	},
 	{
 		"color": "#4A75B4",
-		"date": "July 2024 - 1 week",
+		"date": "July 2022/2023/2024 - 1 week",
 		"title": "Teacher/Organizator",
-		"link": "https://www.ssps.cz/",
+		"link": "https://www.ssps.cz",
 		"company": "Smíchov Secondary Technical School",
 		"location": "Contract &nbsp; | &nbsp; On-site &nbsp; | &nbsp; Prague, Czech Republic",
 		"description": "• Managing a week long summer school of programming and game development<br/><br/>• Teaching new subject basics of 2D graphics<br/><br/>• Creating final project and reviewing student work with constructive feedback and helping them making their final game flawless<br/><br/>• In overall feedback from the students, I was rated as one of the best teachers with keep mind at management and teaching/explaining things in a simple & understandable way"
 	},
 	{
+		"color": "#2C2972",
+		"date": "March 2021 - Febuary 2024",
+		"title": "IT Support",
+		"link": "https://rejstrik-firem.kurzy.cz/02036738/kmk-family-business-sro",
+		"company": "KMK family business s.r.o.",
+		"location": "Part-time &nbsp; | &nbsp; On-site &nbsp; | &nbsp; Rudná, Czech Republic",
+		"description": ""
+	},
+	{
 		"color": "#1D66F3",
 		"date": "January 2023 - September 2023",
 		"title": "Fullstack Web Developer",
-		"link": "https://precismo.com/",
+		"link": "https://precismo.com",
 		"company": "Precismo s.r.o.",
 		"location": "Part-time &nbsp; | &nbsp; Hybrid &nbsp; | &nbsp; Prague, Czech Republic",
 		"description": "• Developing and managing customer portal<br/><br/>• Analysing and developing new features with team collaboration<br/><br/>• Use of git and tracking softwares to ensure punctuality<br/><br/>• Communication and agile environment with a full team of developers"
 	},
 	{
-		"color": "#4A75B4",
-		"date": "July 2023 - 2 weeks",
-		"title": "Game Development Teacher",
-		"link": "https://www.ssps.cz/",
-		"company": "Smíchov Secondary Technical School",
-		"location": "Contract &nbsp; | &nbsp; On-site &nbsp; | &nbsp; Prague, Czech Republic",
-		"description": "• Managing a 2 week long summer school of programming and game development<br/><br/>• Responsibility of preparing well documented materials for students and creating balanced lessons to cover all topics of game development<br/><br/>• Creating final project and reviewing student work with constructive feedback and helping them making their final game flawless"
-	},
-	{
 		"color": "#8832E3",
 		"date": "October 2022 - June 2023",
 		"title": "Frontend Developer",
-		"link": "https://haxagon.cz/",
+		"link": "https://haxagon.cz",
 		"company": "HAXAGON s.r.o.",
 		"location": "Part-time &nbsp; | &nbsp; Remote",
 		"description": "• Developing and managing e-learning platform for cyber security<br/><br/>• Designing and developing new features<br/><br/>• Close collaboration with designer and developer team<br/><br/>• Use of git and tracking softwares to ensure punctuality"
-	},
-	{
-		"color": "#457C3C",
-		"date": "December 2022 - April 2023",
-		"title": "Frontend Developer",
-		"link": "https://froneb.com/",
-		"company": "Froneb s.r.o.",
-		"location": "Contract &nbsp; | &nbsp; Remote",
-		"description": "• Developing an already premade design of an ecommerence website<br/><br/>• Ensuring a smooth user experience on interaction<br/><br/>• Creating a developer friendly environment and codebase to be easily continueable on further development"
-	},
-	{
-		"color": "#BB433B",
-		"date": "May 2022 - 2 weeks",
-		"title": "Application Tester",
-		"link": "https://tv.nova.cz/",
-		"company": "TV Nova",
-		"location": "Internship &nbsp; | &nbsp; On-site &nbsp; | &nbsp; Prague, Czech Republic",
-		"description": "• 2 week internship at the biggest television & media company in the Czech Republic<br/><br/>• Responsibility of properly testing streaming applications and platforms before they go to production<br/><br/>• Reporting of failing tests and immediate developer feedback<br/><br/>• Use of Azure DevOps and Microsoft Office"
 	}
 ]
