@@ -1,6 +1,5 @@
 <script lang="ts">
 	import Navbar from './Navbar.svelte';
-	import Observer from './Observer.svelte';
 	import Home from './Home.svelte';
 	import About from './About.svelte';
 	import Experience from './Experience.svelte';
@@ -10,7 +9,6 @@
 </script>
 
 <Navbar />
-<Observer />
 
 <div class="flex w-full flex-col items-center justify-center">
 	<Home />
