@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Experience from './Experience.json';
+	import Experience from '../../data/Experience.json';
 </script>
 
 <section id="experience">
